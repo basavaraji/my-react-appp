@@ -1,5 +1,4 @@
-function demo(){
-  
-  return ( <p>Good Morning!</p>)
+function Hello(){
+  return <p>13-11-2025</p>
 }
-export default demo;
+export default Hello;
